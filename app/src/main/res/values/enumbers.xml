@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="urunaciklama">
+        <item>Curcumin</item>
+        <item>Riboflavin</item>
+        <item>Tartrazine</item>
+        <item>Quinoline yellow</item>
+        <item>Sunset Yellow FCF</item>
+        <item>Cochineal; Carminic acid</item>
+        <item>Azorubine</item>
+        <item>Amaranth</item>
+        <item>Ponceau 4R;</item>
+        <item>Erythrosine</item>
+        <item>Allura Red AC</item>
+        <item>Patent Blue V</item>
+        <item>Indigotine; Indigo Carmine</item>
+        <item>Brilliant Blue FCF</item>
+        <item>Chlorophylls and chlorophyllins</item>
+        <item>Copper complexes of chlorophyll and chlorophyllins</item>
+        <item>Green S</item>
+        <item>Plain caramel</item>
+        <item>Caustic sulphite caramel</item>
+        <item>Ammonia caramel</item>
+        <item>Sulphite ammonia caramel</item>
+        <item>Brilliant Black BN; Black PN</item>
+        <item>Vegetable carbon</item>
+        <item>Brown HT</item>
+        <item>Carotenes</item>
+        <item>Annatto; Bixin; Norbixin</item>
+        <item>Paprika extract; Capsanthian; Capsorubin</item>
+        <item>Lycopene</item>
+        <item>Beta-apo-8-carotenal (C30)</item>
+        <item>Lutein</item>
+        <item>Canthaxanthin</item>
+        <item>Beetroot Red; Betanin</item>
+        <item>Anthocyanins</item>
+        <item>Calcium carbonate</item>
+        <item>Titanium dioxide</item>
+        <item>Iron oxides and hydroxides</item>
+        <item>Aluminium</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Litholrubine BK</item>
+        <item>Sorbic acid</item>
+        <item>Potassium sorbate</item>
+        <item>Benzoic acid</item>
+        <item>Sodium benzoate</item>
+        <item>Potassium benzoate</item>
+        <item>Calcium benzoate</item>
+        <item>Ethyl p-hydroxybenzoate</item>
+        <item>Sodium ethyl p-hydroxybenzoate</item>
+        <item>Methyl p-hydroxybenzoate</item>
+        <item>Sodium methyl p-hydroxybenzoate</item>
+        <item>Sulphur dioxide</item>
+        <item>Sodium sulphite</item>
+        <item>Sodium hydrogen sulphite</item>
+        <item>Sodium metabisulphite</item>
+        <item>Potassium metabisulphite</item>
+        <item>Calcium sulphite</item>
+        <item>Calcium hydrogen sulphite</item>
+        <item>Potassium hydrogen sulphite</item>
+        <item>Nisin</item>
+        <item>Natamycin</item>
+        <item>Hexamethylene tetramine</item>
+        <item>Dimethyl dicarbonate</item>
+        <item>Ethyl lauroyl arginate</item>
+        <item>Potassium nitrite</item>
+        <item>Sodium nitrite</item>
+        <item>Sodium nitrate</item>
+        <item>Potassium nitrate</item>
+        <item>Propionic acid</item>
+        <item>Sodium propionate</item>
+        <item>Calcium propionate</item>
+        <item>Potassium propionate</item>
+        <item>Boric acid</item>
+        <item>Sodium tetraborate; borax</item>
+        <item>Lysozyme</item>
+        <item>Ascorbic acid</item>
+        <item>Sodium ascorbate</item>
+        <item>Calcium ascorbate</item>
+        <item>Fatty acid esters of ascorbic acid</item>
+        <item>Tocopherols</item>
+        <item>Alpha-tocopherol</item>
+        <item>Gamma-tocopherol</item>
+        <item>Delta-tocopherol</item>
+        <item>Propyl gallate</item>
+        <item>Erythorbic acid</item>
+        <item>Sodium erythorbate</item>
+        <item>Tertiary-butyl hydroquinone (TBHQ)</item>
+        <item>Butylated hydroxyanisole (BHA)</item>
+        <item>Butylated hydroxytoluene (BHT)</item>
+        <item>Extracts of rosemary</item>
+        <item>4-Hexylresorcinol</item>
+        <item>Sorbitol</item>
+        <item>Mannitol</item>
+        <item>Acesulfame K</item>
+        <item>Aspartame</item>
+        <item>Cyclamic acid</item>
+        <item>Isomalt</item>
+        <item>Saccharin</item>
+        <item>Sucralose</item>
+        <item>Thaumatin</item>
+        <item>Neohesperidine DC</item>
+        <item>Steviol glycoside</item>
+        <item>Neotame</item>
+        <item>Salt of aspartame-acesulfame</item>
+        <item>Polyglycitol syrup</item>
+        <item>Maltitol</item>
+        <item>Lactitol</item>
+        <item>Xylitol</item>
+        <item>Erythritol</item>
+        <item>Advantame</item>
+        <item>Lecithins</item>
+        <item>Alginic acid</item>
+        <item>Sodium alginate</item>
+        <item>Potassium alginate</item>
+        <item>Ammonium alginate</item>
+        <item>Calcium alginate</item>
+        <item>Propane-1,2-diol alginate</item>
+        <item>Agar</item>
+        <item>Carrageenan</item>
+        <item>Processed eucheuma seaweed</item>
+        <item>Locust bean gum; carob gum</item>
+        <item>Guar gum</item>
+        <item>Tragacanth</item>
+        <item>Acacia gum; gum arabic</item>
+        <item>Xanthan gum</item>
+        <item>Karaya gum</item>
+        <item>Tara gum</item>
+        <item>Gellan gum</item>
+        <item>Konjac</item>
+        <item>Soybean hemicellulose</item>
+        <item>Cassia gum</item>
+        <item>Polysorbate 20</item>
+        <item>Polysorbate 80</item>
+        <item>Polysorbate 40</item>
+        <item>Polysorbate 60</item>
+        <item>Polysorbate 65</item>
+        <item>Pectins</item>
+        <item>Ammonium phosphatides</item>
+        <item>Sucrose acetate isobutyrate</item>
+        <item>Glycerol esters of wood rosins</item>
+        <item>Cellulose</item>
+        <item>Methyl cellulose</item>
+        <item>Ethyl cellulose</item>
+        <item>Hydroxypropyl cellulose</item>
+        <item>Hydroxypropyl methyl cellulose</item>
+        <item>Ethyl methyl cellulose</item>
+        <item>Carboxy methyl cellulose</item>
+        <item>Crosslinked sodium carboxy methyl </item>
+        <item>Enzymatically hydrolysed carboxy </item>
+        <item>Sodium, potassium</item>
+        <item>Magnesium salts of fatty acids</item>
+        <item>Mono- and diglycerides of fatty acids</item>
+        <item>Acetic acid esters of mono</item>
+        <item>Lactic acid esters of mono</item>
+        <item>Citric acid esters of mono</item>
+        <item>Tartaric acid esters of mono</item>
+        <item>Diacetyltartaric acid esters</item>
+        <item>Mixed acetic</item>
+        <item>Sucrose esters of fatty acids</item>
+        <item>Sucroglycerides</item>
+        <item>Polyglycerol esters of fatty acids</item>
+        <item>Polyglycerol polyricinoleate</item>
+        <item>Propane-1,2-diol esters of fatty acids</item>
+        <item>Thermally oxidised soya bean oil</item>
+        <item>Sodium stearoyl-2-lactylate</item>
+        <item>Calcium stearoyl-2-lactylate</item>
+        <item>Stearyl tartrate</item>
+        <item>Sorbitan monostearate</item>
+        <item>Sorbitan tristearate</item>
+        <item>Sorbitan monolaurate</item>
+        <item>Sorbitan monooleate</item>
+        <item>Sorbitan monopalmitate</item>
+        <item>Invertase</item>
+        <item>Acetic acid</item>
+        <item>Potassium acetate</item>
+        <item>Sodium acetate</item>
+        <item>Calcium acetate</item>
+        <item>Lactic acid</item>
+        <item>Carbon dioxide</item>
+        <item>Malic acid</item>
+        <item>Fumaric acid</item>
+        <item>Sodium lactate</item>
+        <item>Potassium lactate</item>
+        <item>Calcium lactate</item>
+        <item>Citric acid</item>
+        <item>Sodium citrates</item>
+        <item>Potassium citrates</item>
+        <item>Calcium citrates</item>
+        <item>Tartaric acid (L-(+))</item>
+        <item>Sodium tartrates</item>
+        <item>Potassium tartrates</item>
+        <item>Sodium potassium tartrate</item>
+        <item>Phosphoric acid</item>
+        <item>Sodium phosphates</item>
+        <item>Potassium phosphates</item>
+        <item>Calcium phosphates</item>
+        <item>Magnesium phosphates</item>
+        <item>Sodium malates</item>
+        <item>Potassium malate</item>
+        <item>Calcium malates</item>
+        <item>Metatartaric acid</item>
+        <item>Calcium tartrate</item>
+        <item>Adipic acid</item>
+        <item>Sodium adipate</item>
+        <item>Potassium adipate</item>
+        <item>Succinic acid</item>
+        <item>Triammonium citrate</item>
+        <item>Calcium disodium ethylene</item>
+        <item>Glycerol</item>
+        <item>Octenyl succinic acid modified gum</item>
+        <item>Polyoxyethylene (40) stearate</item>
+        <item>Diphosphates</item>
+        <item>Triphosphates</item>
+        <item>Polyphosphates</item>
+        <item>Beta-cyclodextrin</item>
+        <item>Stigmasterol-rich plant sterols</item>
+        <item>Sodium carbonates</item>
+        <item>Potassium carbonates</item>
+        <item>Ammonium carbonates</item>
+        <item>Magnesium carbonates</item>
+        <item>Hydrochloric acid</item>
+        <item>Potassium chloride</item>
+        <item>Calcium chloride</item>
+        <item>Magnesium chloride</item>
+        <item>Stannous chloride</item>
+        <item>Sulphuric acid</item>
+        <item>Sodium sulphates</item>
+        <item>Potassium sulphates</item>
+        <item>Calcium sulphate</item>
+        <item>Ammonium sulphate</item>
+        <item>Aluminium sulphate</item>
+        <item>Aluminium sodium sulphate</item>
+        <item>Aluminium potassium sulphate</item>
+        <item>Aluminium ammonium sulphate</item>
+        <item>Sodium hydroxide</item>
+        <item>Potassium hydroxide</item>
+        <item>Calcium hydroxide</item>
+        <item>Ammonium hydroxide</item>
+        <item>Magnesium hydroxide</item>
+        <item>Calcium oxide</item>
+        <item>Magnesium oxide</item>
+        <item>Sodium ferrocyanide</item>
+        <item>Potassium ferrocyanide</item>
+        <item>Calcium ferrocyanide</item>
+        <item>Sodium aluminium phosphate</item>
+        <item>Silicon dioxide</item>
+        <item>Calcium silicate</item>
+        <item>Magnesium silicate</item>
+        <item>Talc</item>
+        <item>Sodium aluminium silicate</item>
+        <item>Potassium aluminium silicate</item>
+        <item>Aluminium calcium silicate</item>
+        <item>Aluminium silicate; Kaolin</item>
+        <item>Fatty acids</item>
+        <item>Gluconic acid</item>
+        <item>Glucono delta-lactone</item>
+        <item>Sodium gluconate</item>
+        <item>Potassium gluconate</item>
+        <item>Calcium gluconate</item>
+        <item>Ferrous gluconate</item>
+        <item>Ferrous lactate</item>
+        <item>Glutamic acid</item>
+        <item>Monosodium glutamate</item>
+        <item>Monopotassium glutamate</item>
+        <item>Calcium diglutamate</item>
+        <item>Monoammonium glutamate</item>
+        <item>Magnesium diglutamate</item>
+        <item>Guanylic acid</item>
+        <item>Disodium guanylate</item>
+        <item>Dipotassium guanylate</item>
+        <item>Calcium guanylate</item>
+        <item>Inosinic acid</item>
+        <item>Disodium inosinate</item>
+        <item>Dipotassium inosinate</item>
+        <item>Calcium inosinate</item>
+        <item>Calcium 5-ribonucleotides</item>
+        <item>Disodium 5-ribonucleotides</item>
+        <item>Glycine and its sodium salt</item>
+        <item>L-leucine</item>
+        <item>Zinc acetate</item>
+        <item>Dimethylpolysiloxane</item>
+        <item>Beeswax, white and yellow</item>
+        <item>Candelilla wax</item>
+        <item>Carnauba wax</item>
+        <item>Shellac</item>
+        <item>Microcrystalline wax</item>
+        <item>Hydrogenated Poly-1-Decene</item>
+        <item>Oxidised Polyethylene wax</item>
+        <item>L-Cysteine</item>
+        <item>Carbamide</item>
+        <item>Argon</item>
+        <item>Helium</item>
+        <item>Nitrogen</item>
+        <item>Nitrous oxide</item>
+        <item>Butane</item>
+        <item>Iso-butane</item>
+        <item>Propane</item>
+        <item>Oxygen</item>
+        <item>Hydrogen</item>
+        <item>Quillaia extract</item>
+        <item>Polydextrose</item>
+        <item>Polyvinylpyrrolidone</item>
+        <item>Polyvinylpolypyrrolidone</item>
+        <item>Polyvinyl alcohol</item>
+        <item>Pullulan</item>
+        <item>Basic methacrylate copolymer</item>
+        <item>Neutral methacrylate copolymer</item>
+        <item>Anionic methacrylate copolymer</item>
+        <item>Polyvinylpyrrolidone-vinyl</item>
+        <item>Polyvinyl alcohol-polyethylene</item>
+        <item>Oxidised starch</item>
+        <item>Monostarch phosphate</item>
+        <item>Distarch phosphate</item>
+        <item>Phosphated distarch phosphate</item>
+        <item>Acetylated distarch phosphate</item>
+        <item>Acetylated starch</item>
+        <item>Acetylated distarch adipate</item>
+        <item>Hydroxyl propyl starch</item>
+        <item>Hydroxy propyl distarch phosphate</item>
+        <item>Starch sodium octenyl succinate</item>
+        <item>Acetylated oxidised starch</item>
+        <item>Starch aluminium Octenyl succinate</item>
+        <item>Triethyl citrate</item>
+        <item>Glyceryl diacetate (diacetin)</item>
+        <item>Glyceryl triacetate; triacetin</item>
+        <item>Benzyl alcohol</item>
+        <item>Propan-1,2-diol; propylene glycol</item>
+        <item>Polyethylene glycol</item>
+    </string-array>
+    <string-array name="enumbers">
+        <item>E100</item>
+        <item>E101</item>
+        <item>E102</item>
+        <item>E104</item>
+        <item>E110</item>
+        <item>E120</item>
+        <item>E122</item>
+        <item>E123</item>
+        <item>E124</item>
+        <item>E127</item>
+        <item>E129</item>
+        <item>E131</item>
+        <item>E132</item>
+        <item>E133</item>
+        <item>E140</item>
+        <item>E141</item>
+        <item>E142</item>
+        <item>E150a</item>
+        <item>E150b</item>
+        <item>E150c</item>
+        <item>E150d</item>
+        <item>E151</item>
+        <item>E153</item>
+        <item>E155</item>
+        <item>E160a</item>
+        <item>E160b</item>
+        <item>E160c</item>
+        <item>E160d</item>
+        <item>E160e</item>
+        <item>E161b</item>
+        <item>E161g</item>
+        <item>E162</item>
+        <item>E163</item>
+        <item>E170</item>
+        <item>E171</item>
+        <item>E172</item>
+        <item>E173</item>
+        <item>E174</item>
+        <item>E175</item>
+        <item>E180</item>
+        <item>E200</item>
+        <item>E202</item>
+        <item>E210</item>
+        <item>E211</item>
+        <item>E212</item>
+        <item>E213</item>
+        <item>E214</item>
+        <item>E215</item>
+        <item>E218</item>
+        <item>E219</item>
+        <item>E220</item>
+        <item>E221</item>
+        <item>E222</item>
+        <item>E223</item>
+        <item>E224</item>
+        <item>E226</item>
+        <item>E227</item>
+        <item>E228</item>
+        <item>E234</item>
+        <item>E235</item>
+        <item>E239</item>
+        <item>E242</item>
+        <item>E243</item>
+        <item>E249</item>
+        <item>E250</item>
+        <item>E251</item>
+        <item>E252</item>
+        <item>E280</item>
+        <item>E281</item>
+        <item>E282</item>
+        <item>E283</item>
+        <item>E284</item>
+        <item>E285</item>
+        <item>E1105</item>
+        <item>E300</item>
+        <item>E301</item>
+        <item>E302</item>
+        <item>E304</item>
+        <item>E306</item>
+        <item>E307</item>
+        <item>E308</item>
+        <item>E309</item>
+        <item>E310</item>
+        <item>E315</item>
+        <item>E316</item>
+        <item>E319</item>
+        <item>E320</item>
+        <item>E321</item>
+        <item>E392</item>
+        <item>E586</item>
+        <item>E420</item>
+        <item>E421</item>
+        <item>E950</item>
+        <item>E951</item>
+        <item>E952</item>
+        <item>E953</item>
+        <item>E954</item>
+        <item>E955</item>
+        <item>E957</item>
+        <item>E959</item>
+        <item>E960</item>
+        <item>E961</item>
+        <item>E962</item>
+        <item>E964</item>
+        <item>E965</item>
+        <item>E966</item>
+        <item>E967</item>
+        <item>E968</item>
+        <item>E969</item>
+        <item>E322</item>
+        <item>E400</item>
+        <item>E401</item>
+        <item>E402</item>
+        <item>E403</item>
+        <item>E404</item>
+        <item>E405</item>
+        <item>E406</item>
+        <item>E407</item>
+        <item>E407a</item>
+        <item>E410</item>
+        <item>E412</item>
+        <item>E413</item>
+        <item>E414</item>
+        <item>E415</item>
+        <item>E416</item>
+        <item>E417</item>
+        <item>E418</item>
+        <item>E425</item>
+        <item>E426</item>
+        <item>E427</item>
+        <item>E432</item>
+        <item>E433</item>
+        <item>E434</item>
+        <item>E435</item>
+        <item>E436</item>
+        <item>E440</item>
+        <item>E442</item>
+        <item>E444</item>
+        <item>E445</item>
+        <item>E460</item>
+        <item>E461</item>
+        <item>E462</item>
+        <item>E463</item>
+        <item>E464</item>
+        <item>E465</item>
+        <item>E466</item>
+        <item>E468</item>
+        <item>E469</item>
+        <item>E470a</item>
+        <item>E470b</item>
+        <item>E471</item>
+        <item>E472a</item>
+        <item>E472b</item>
+        <item>E472c</item>
+        <item>E472d</item>
+        <item>E472e</item>
+        <item>E472f</item>
+        <item>E473</item>
+        <item>E474</item>
+        <item>E475</item>
+        <item>E476</item>
+        <item>E477</item>
+        <item>E479b</item>
+        <item>E481</item>
+        <item>E482</item>
+        <item>E483</item>
+        <item>E491</item>
+        <item>E492</item>
+        <item>E493</item>
+        <item>E494</item>
+        <item>E495</item>
+        <item>E1103</item>
+        <item>E260</item>
+        <item>E261</item>
+        <item>E262</item>
+        <item>E263</item>
+        <item>E270</item>
+        <item>E290</item>
+        <item>E296</item>
+        <item>E297</item>
+        <item>E325</item>
+        <item>E326</item>
+        <item>E327</item>
+        <item>E330</item>
+        <item>E331</item>
+        <item>E332</item>
+        <item>E333</item>
+        <item>E334</item>
+        <item>E335</item>
+        <item>E336</item>
+        <item>E337</item>
+        <item>E338</item>
+        <item>E339</item>
+        <item>E340</item>
+        <item>E341</item>
+        <item>E343</item>
+        <item>E350</item>
+        <item>E351</item>
+        <item>E352</item>
+        <item>E353</item>
+        <item>E354</item>
+        <item>E355</item>
+        <item>E356</item>
+        <item>E357</item>
+        <item>E363</item>
+        <item>E380</item>
+        <item>E385</item>
+        <item>E422</item>
+        <item>E423</item>
+        <item>E431</item>
+        <item>E450</item>
+        <item>E451</item>
+        <item>E452</item>
+        <item>E459</item>
+        <item>E499</item>
+        <item>E500</item>
+        <item>E501</item>
+        <item>E503</item>
+        <item>E504</item>
+        <item>E507</item>
+        <item>E508</item>
+        <item>E509</item>
+        <item>E511</item>
+        <item>E512</item>
+        <item>E513</item>
+        <item>E514</item>
+        <item>E515</item>
+        <item>E516</item>
+        <item>E517</item>
+        <item>E520</item>
+        <item>E521</item>
+        <item>E522</item>
+        <item>E523</item>
+        <item>E524</item>
+        <item>E525</item>
+        <item>E526</item>
+        <item>E527</item>
+        <item>E528</item>
+        <item>E529</item>
+        <item>E530</item>
+        <item>E535</item>
+        <item>E536</item>
+        <item>E538</item>
+        <item>E541</item>
+        <item>E551</item>
+        <item>E552</item>
+        <item>E553a</item>
+        <item>E553b</item>
+        <item>E554</item>
+        <item>E555</item>
+        <item>E556</item>
+        <item>E559</item>
+        <item>E570</item>
+        <item>E574</item>
+        <item>E575</item>
+        <item>E576</item>
+        <item>E577</item>
+        <item>E578</item>
+        <item>E579</item>
+        <item>E585</item>
+        <item>E620</item>
+        <item>E621</item>
+        <item>E622</item>
+        <item>E623</item>
+        <item>E624</item>
+        <item>E625</item>
+        <item>E626</item>
+        <item>E627</item>
+        <item>E628</item>
+        <item>E629</item>
+        <item>E630</item>
+        <item>E631</item>
+        <item>E632</item>
+        <item>E633</item>
+        <item>E634</item>
+        <item>E635</item>
+        <item>E640</item>
+        <item>E641</item>
+        <item>E650</item>
+        <item>E900</item>
+        <item>E901</item>
+        <item>E902</item>
+        <item>E903</item>
+        <item>E904</item>
+        <item>E905</item>
+        <item>E907</item>
+        <item>E914</item>
+        <item>E920</item>
+        <item>E927b</item>
+        <item>E938</item>
+        <item>E939</item>
+        <item>E941</item>
+        <item>E942</item>
+        <item>E943a</item>
+        <item>E943b</item>
+        <item>E944</item>
+        <item>E948</item>
+        <item>E949</item>
+        <item>E999</item>
+        <item>E1200</item>
+        <item>E1201</item>
+        <item>E1202</item>
+        <item>E1203</item>
+        <item>E1204</item>
+        <item>E1205</item>
+        <item>E1206</item>
+        <item>E1207</item>
+        <item>E1208</item>
+        <item>E1209</item>
+        <item>E1404</item>
+        <item>E1410</item>
+        <item>E1412</item>
+        <item>E1413</item>
+        <item>E1414</item>
+        <item>E1420</item>
+        <item>E1422</item>
+        <item>E1440</item>
+        <item>E1442</item>
+        <item>E1450</item>
+        <item>E1451</item>
+        <item>E1452</item>
+        <item>E1505</item>
+        <item>E1517</item>
+        <item>E1518</item>
+        <item>E1519</item>
+        <item>E1520</item>
+        <item>E1521</item>
+
+
+
+
+
+    </string-array>
+    <string-array name="edurum">
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HARAM</item>
+        <item>HARAM</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HARAM</item>
+        <item>HARAM</item>
+        <item>HARAM</item>
+        <item>HARAM</item>
+        <item>HARAM</item>
+        <item>HARAM</item>
+        <item>HARAM</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HARAM</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HARAM</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>HELAL</item>
+        <item>SUPHELI</item>
+        <item>SUPHELI</item>
+        <item>HARAM</item>
+        <item>SUPHELI</item>
+        <item>HELAL</item>
+    </string-array>
+
+
+
+
+
+
+</resources>

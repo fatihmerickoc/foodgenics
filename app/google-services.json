@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045767859787",
+    "firebase_url": "https://foodgenics-fec6e.firebaseio.com",
+    "project_id": "foodgenics-fec6e",
+    "storage_bucket": "foodgenics-fec6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045767859787:android:85c7ff278e41510b1427ce",
+        "android_client_info": {
+          "package_name": "com.ruthertech.foodgenics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045767859787-48m35e5pn17ha99ct224670qcmnrapje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruthertech.foodgenics",
+            "certificate_hash": "0c2a7e7ff7a1242649224b398cc6840f96793941"
+          }
+        },
+        {
+          "client_id": "1045767859787-c6lq26i6d7m8cldg23p3tfj6hk6lvjjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt3k16nIZyupWzV93n_x3FqHJTAUYMwIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045767859787-c6lq26i6d7m8cldg23p3tfj6hk6lvjjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
